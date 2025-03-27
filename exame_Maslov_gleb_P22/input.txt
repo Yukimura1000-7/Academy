@@ -1,0 +1,5 @@
+worker welder senior Alexey
+worker welder junior Alexander
+manager senior Semyon
+manager junior Anton
+head Farhat
