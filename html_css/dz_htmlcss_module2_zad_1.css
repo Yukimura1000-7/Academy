@@ -1,0 +1,45 @@
+.fruit-list {
+    background-color: #4c6cf7;
+    padding: 20px;
+    list-style-type: none;
+    margin: 0;
+    border-radius: 8px;
+    counter-reset: fruit-counter;
+}
+
+.fruit-list li {
+    padding: 12px 15px;
+    margin: 8px 0;
+    border-radius: 4px;
+    transition: background-color 0.3s, transform 0.3s;
+    position: relative;
+    padding-left: 60px;
+}
+
+.fruit-list li::before {
+    content: counter(fruit-counter) ".";
+    counter-increment: fruit-counter;
+    position: absolute;
+    left: 15px;
+    color: white;
+    background-color: #284cb7;
+    padding: 4px 10px;
+    border-radius: 4px;
+    font-weight: bold;
+}
+
+.fruit-list li span {
+    background-color: #000d9b;
+    padding: 6px 12px;
+    border-radius: 4px;
+    color: white;
+    display: inline-block;
+}
+
+.fruit-list li.darker {
+    background-color: #284cb7;
+}
+
+.fruit-list li:hover {
+    transform: translateX(10px);
+}

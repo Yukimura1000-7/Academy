@@ -1,0 +1,55 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+  }
+  
+  .container {
+    position: relative;
+    width: 300px;
+    height: 200px;
+    overflow: hidden;
+    perspective: 1000px;
+  }
+  
+  .door {
+    position: absolute;
+    top: 0;
+    width: 50%;
+    height: 100%;
+    background-color: #333;
+    transition: transform 2s ease;
+    backface-visibility: hidden;
+  }
+  
+  .left-door {
+    left: 0;
+    transform-origin: left;
+  }
+  
+  .right-door {
+    right: 0;
+    transform-origin: right;
+  }
+  
+  .hidden-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 24px;
+    font-weight: bold;
+    color: #9c0303;
+    z-index: -1;
+  }
+  
+  .container:hover .left-door {
+    transform: rotateY(-180deg);
+  }
+  
+  .container:hover .right-door {
+    transform: rotateY(180deg);
+  }

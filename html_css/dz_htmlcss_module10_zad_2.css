@@ -1,0 +1,156 @@
+.input-default {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    outline: none;
+    transition: border-color 0.3s ease;
+}
+
+.input-valid {
+    padding: 10px;
+    border: 2px solid green;
+    border-radius: 4px;
+    font-size: 16px;
+    outline: none;
+}
+
+.input-invalid {
+    padding: 10px;
+    border: 2px solid red;
+    border-radius: 4px;
+    font-size: 16px;
+    outline: none;
+}
+
+.checkbox-off {
+    appearance: none;
+    width: 18px;
+    height: 18px;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.checkbox-on {
+    appearance: none;
+    width: 18px;
+    height: 18px;
+    border: 2px solid #4caf50;
+    background-color: #4caf50;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.radio-off {
+    appearance: none;
+    width: 18px;
+    height: 18px;
+    border: 2px solid #ccc;
+    border-radius: 50%;
+    cursor: pointer;
+    transition: border-color 0.3s ease;
+}
+
+.radio-on {
+    appearance: none;
+    width: 18px;
+    height: 18px;
+    border: 2px solid #4caf50;
+    background-color: #4caf50;
+    border-radius: 50%;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.button-green {
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.button-red {
+    background-color: #f44336;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.button-green:hover {
+    background-color: #45a049;
+}
+
+.button-red:hover {
+    background-color: #da190b;
+}
+
+.button-disabled {
+    background-color: #ccc;
+    color: #666;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: not-allowed;
+}
+
+.circle-button-green {
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.circle-button-red {
+    background-color: #f44336;
+    color: white;
+    border: none;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.circle-button-green:hover {
+    background-color: #45a049;
+}
+
+.circle-button-red:hover {
+    background-color: #da190b;
+}
+
+.textarea-default {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    resize: vertical;
+    outline: none;
+    transition: border-color 0.3s ease;
+}
+
+.textarea-default:focus {
+    border-color: #4caf50;
+}
