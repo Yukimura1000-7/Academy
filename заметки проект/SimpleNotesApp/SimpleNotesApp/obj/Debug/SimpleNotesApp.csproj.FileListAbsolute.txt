@@ -1,0 +1,42 @@
+C:\Users\Administrator\Desktop\C#\TaskC-sharp-\Классная работа\SimpleNotesApp\SimpleNotesApp\bin\Debug\SimpleNotesApp.exe.config
+C:\Users\Administrator\Desktop\C#\TaskC-sharp-\Классная работа\SimpleNotesApp\SimpleNotesApp\bin\Debug\SimpleNotesApp.exe
+C:\Users\Administrator\Desktop\C#\TaskC-sharp-\Классная работа\SimpleNotesApp\SimpleNotesApp\bin\Debug\SimpleNotesApp.pdb
+C:\Users\Administrator\Desktop\C#\TaskC-sharp-\Классная работа\SimpleNotesApp\SimpleNotesApp\obj\Debug\SimpleNotesApp.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\C#\TaskC-sharp-\Классная работа\SimpleNotesApp\SimpleNotesApp\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\C#\TaskC-sharp-\Классная работа\SimpleNotesApp\SimpleNotesApp\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\C#\TaskC-sharp-\Классная работа\SimpleNotesApp\SimpleNotesApp\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\C#\TaskC-sharp-\Классная работа\SimpleNotesApp\SimpleNotesApp\obj\Debug\SimpleNotesApp_MarkupCompile.cache
+C:\Users\Administrator\Desktop\C#\TaskC-sharp-\Классная работа\SimpleNotesApp\SimpleNotesApp\obj\Debug\SimpleNotesApp.g.resources
+C:\Users\Administrator\Desktop\C#\TaskC-sharp-\Классная работа\SimpleNotesApp\SimpleNotesApp\obj\Debug\SimpleNotesApp.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C#\TaskC-sharp-\Классная работа\SimpleNotesApp\SimpleNotesApp\obj\Debug\SimpleNotesApp.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\C#\TaskC-sharp-\Классная работа\SimpleNotesApp\SimpleNotesApp\obj\Debug\SimpleNotesApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C#\TaskC-sharp-\Классная работа\SimpleNotesApp\SimpleNotesApp\obj\Debug\SimpleNotesApp.exe
+C:\Users\Administrator\Desktop\C#\TaskC-sharp-\Классная работа\SimpleNotesApp\SimpleNotesApp\obj\Debug\SimpleNotesApp.pdb
+C:\Users\glebe\Desktop\SimpleNotesApp\SimpleNotesApp\bin\Debug\SimpleNotesApp.exe.config
+C:\Users\glebe\Desktop\SimpleNotesApp\SimpleNotesApp\bin\Debug\SimpleNotesApp.exe
+C:\Users\glebe\Desktop\SimpleNotesApp\SimpleNotesApp\bin\Debug\SimpleNotesApp.pdb
+C:\Users\glebe\Desktop\SimpleNotesApp\SimpleNotesApp\obj\Debug\SimpleNotesApp.csproj.AssemblyReference.cache
+C:\Users\glebe\Desktop\SimpleNotesApp\SimpleNotesApp\obj\Debug\MainWindow.baml
+C:\Users\glebe\Desktop\SimpleNotesApp\SimpleNotesApp\obj\Debug\MainWindow.g.cs
+C:\Users\glebe\Desktop\SimpleNotesApp\SimpleNotesApp\obj\Debug\App.g.cs
+C:\Users\glebe\Desktop\SimpleNotesApp\SimpleNotesApp\obj\Debug\SimpleNotesApp_MarkupCompile.cache
+C:\Users\glebe\Desktop\SimpleNotesApp\SimpleNotesApp\obj\Debug\SimpleNotesApp.g.resources
+C:\Users\glebe\Desktop\SimpleNotesApp\SimpleNotesApp\obj\Debug\SimpleNotesApp.Properties.Resources.resources
+C:\Users\glebe\Desktop\SimpleNotesApp\SimpleNotesApp\obj\Debug\SimpleNotesApp.csproj.GenerateResource.cache
+C:\Users\glebe\Desktop\SimpleNotesApp\SimpleNotesApp\obj\Debug\SimpleNotesApp.csproj.CoreCompileInputs.cache
+C:\Users\glebe\Desktop\SimpleNotesApp\SimpleNotesApp\obj\Debug\SimpleNotesApp.exe
+C:\Users\glebe\Desktop\SimpleNotesApp\SimpleNotesApp\obj\Debug\SimpleNotesApp.pdb
+C:\Users\glebe\Desktop\Академия\заметки проект\SimpleNotesApp\SimpleNotesApp\bin\Debug\SimpleNotesApp.exe.config
+C:\Users\glebe\Desktop\Академия\заметки проект\SimpleNotesApp\SimpleNotesApp\bin\Debug\SimpleNotesApp.exe
+C:\Users\glebe\Desktop\Академия\заметки проект\SimpleNotesApp\SimpleNotesApp\bin\Debug\SimpleNotesApp.pdb
+C:\Users\glebe\Desktop\Академия\заметки проект\SimpleNotesApp\SimpleNotesApp\obj\Debug\SimpleNotesApp.csproj.AssemblyReference.cache
+C:\Users\glebe\Desktop\Академия\заметки проект\SimpleNotesApp\SimpleNotesApp\obj\Debug\MainWindow.baml
+C:\Users\glebe\Desktop\Академия\заметки проект\SimpleNotesApp\SimpleNotesApp\obj\Debug\MainWindow.g.cs
+C:\Users\glebe\Desktop\Академия\заметки проект\SimpleNotesApp\SimpleNotesApp\obj\Debug\App.g.cs
+C:\Users\glebe\Desktop\Академия\заметки проект\SimpleNotesApp\SimpleNotesApp\obj\Debug\SimpleNotesApp_MarkupCompile.cache
+C:\Users\glebe\Desktop\Академия\заметки проект\SimpleNotesApp\SimpleNotesApp\obj\Debug\SimpleNotesApp.g.resources
+C:\Users\glebe\Desktop\Академия\заметки проект\SimpleNotesApp\SimpleNotesApp\obj\Debug\SimpleNotesApp.Properties.Resources.resources
+C:\Users\glebe\Desktop\Академия\заметки проект\SimpleNotesApp\SimpleNotesApp\obj\Debug\SimpleNotesApp.csproj.GenerateResource.cache
+C:\Users\glebe\Desktop\Академия\заметки проект\SimpleNotesApp\SimpleNotesApp\obj\Debug\SimpleNotesApp.csproj.CoreCompileInputs.cache
+C:\Users\glebe\Desktop\Академия\заметки проект\SimpleNotesApp\SimpleNotesApp\obj\Debug\SimpleNotesApp.exe
+C:\Users\glebe\Desktop\Академия\заметки проект\SimpleNotesApp\SimpleNotesApp\obj\Debug\SimpleNotesApp.pdb

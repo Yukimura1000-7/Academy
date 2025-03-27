@@ -1,0 +1,45 @@
+﻿<Window x:Class="SimpleNotesApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Заметки" Height="680" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="250"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <ListBox ItemsSource="{Binding Notes}"
+                 SelectedItem="{Binding SelectedNote}"
+                 DisplayMemberPath="Title"
+                 Margin="10"/>
+
+        <StackPanel Grid.Column="1" Margin="10">
+            <StackPanel>
+                <Label Content="Заголовок:"/>
+                <TextBox Text="{Binding SelectedNote.Title}" Margin="0,0,0,10" />
+            </StackPanel>
+            <StackPanel>
+                <Label Content="Содержимое:"/>
+                <TextBox Text="{Binding SelectedNote.Content}" Height="200" Margin="0,0,0,10" />
+            </StackPanel>
+            <StackPanel>
+                <Label Content="Категория:"/>
+                <TextBox Text="{Binding SelectedNote.Category}" Margin="0,0,0,10" />
+            </StackPanel>
+            <StackPanel>
+                <Label Content="Время создания:"/>
+                <TextBox Text="{Binding SelectedNote.CreationDate, StringFormat=dd.MM.yyyy HH:mm}" Margin="0,0,0,10" />
+            </StackPanel>
+            <StackPanel>
+                <Label Content="Время напоминания:"/>
+                <TextBox Text="{Binding SelectedNote.ReminderDate, StringFormat=dd.MM.yyyy HH:mm}" Margin="0,0,0,10" />
+            </StackPanel>
+            <Button Content="Добавить заметку" Command="{Binding AddNoteCommand}" Margin="0,0,0,10"/>
+            <Button Content="Редактировать заметку" Command="{Binding EditNoteCommand}" Margin="0,0,0,10"/>
+            <Button Content="Удалить заметку" Command="{Binding DeleteNoteCommand}" Margin="0,0,0,10"/>
+            <Button Content="Сортировать по дате" Command="{Binding SortByDateCommand}" Margin="0,0,0,10"/>
+            <Button Content="Сортировать по категории" Command="{Binding SortByCategoryCommand}" Margin="0,0,0,10"/>
+            <Button Content="Сортировать по алфавиту" Command="{Binding SortByTitleCommand}" Margin="0,0,0,10"/>
+        </StackPanel>
+    </Grid>
+</Window>
