@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+.box {
+    width: 300px;
+    height: 200px;
+    border: 2px solid #ccc;
+    padding: 10px;
+    position: relative;
+    overflow: hidden;
+    resize: none;
+}
+
+.resize-handle {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 10px;
+    height: 10px;
+    background-color: black;
+    cursor: se-resize;
+}
